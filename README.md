@@ -1,4 +1,4 @@
-#Bloom's Taxonomy Text Classifier using DistilBERT
+<H1>Bloom's Taxonomy Text Classifier using DistilBERT</H1>
 
   ###A deep learning-based NLP project that classifies educational questions into six Bloom's Taxonomy cognitive levels using a fine-tuned DistilBERT model.
 
