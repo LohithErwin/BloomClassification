@@ -4,7 +4,7 @@
 
 <h2>Overview:</h2>
 
-  <h3>Bloom's Taxonomy is a framework used in education to categorize learning objectives by cognitive complexity. This project automates that classification using a transformer-based model fine-tuned on ~8,700 educational questions.</h3>
+  <h4>Bloom's Taxonomy is a framework used in education to categorize learning objectives by cognitive complexity. This project automates that classification using a transformer-based model fine-tuned on ~8,700 educational questions.</h4>
 
       BT1: Remembering: Recall or recognize basic facts and concepts.
       BT2: Understanding: Comprehend and explain ideas or concepts.
